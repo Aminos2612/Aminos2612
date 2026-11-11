@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi, I'm Amine 👋<br><br>💻 **Computer Science student in Berlin, Germany**  <br>B.Sc. Computer Science at IU International University of Applied Sciences<br><br>I'm interested in **cybersecurity, systems engineering, software development, and AI**. I enjoy learning by building projects, experimenting with technologies, and documenting what I learn along the way.<br><br>🔎 **Open to internship opportunities in Berlin** — particularly in cybersecurity, software engineering, and related technical roles.<br><br>## 🔭 What I'm Working On<br><br>- 🔐 **Home SOC / Purple Team Lab** — Building a hands-on security lab to explore log collection, attack simulation, and detection engineering using the MITRE ATT&CK framework.<br>- 🖥️ **Computer Architecture & Operating Systems** — Working through university coursework involving Linux, Ubuntu Server, virtual machines, system administration, and SSH. Documenting practical exercises, troubleshooting, and technical evidence.<br>- 🐍 **Python Projects** — Developing programming fundamentals and exploring automation and problem-solving.<br>- 🌐 **Web & Database Development** — Working with web technologies, SQL, database design, and relational data.<br><br>## 🛠️ Technologies & Tools<br><br>![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)<br>![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)<br>![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)<br>![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)<br>![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)<br>![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)<br>![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)<br>![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)<br><br>**Programming:** Python, Java, SQL, C/C++ coursework  <br>**Systems:** Linux, Ubuntu Server, virtual machines, SSH  <br>**Cybersecurity:** Networking fundamentals, SIEM concepts, MITRE ATT&CK, detection engineering  <br>**Tools:** Git, GitHub, VS Code, Docker, Wireshark  <br>**Currently exploring:** Wazuh, Sysmon, security monitoring, and system administration<br><br>## 📂 Featured Repositories<br><br>- [Airbnb_DB](https://github.com/Aminos2612/Airbnb_DB) — Database project.<br>- [IU_WD](https://github.com/Aminos2612/IU_WD) — University web development work.<br><br>*More practical projects and technical documentation are in progress.*<br><br>## 🎯 My Goals<br><br>- Build practical cybersecurity and software engineering projects.<br>- Strengthen my understanding of operating systems, computer architecture, and networking.<br>- Develop reliable programming and problem-solving skills.<br>- Document my learning through reproducible experiments and technical write-ups.<br>- Contribute to open-source projects and grow a strong technical portfolio.<br><br>## 🏊 Beyond Tech<br><br>Former competitive swimmer for Qatar. Years of training taught me discipline, consistency, and the value of continuous improvement — qualities I bring to learning and building in tech.<br><br>## 📫 Connect With Me<br><br>- 💼 [LinkedIn](https://www.linkedin.com/in/amine-boughattas-a38847324)<br>- ✉️ [Email](mailto:aminosarige123@gmail.com)<br><br>*Always learning. Always building.*
 
-<!--
-**Aminos2612/Aminos2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amine-boughattas-a38847324) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aminosarige123@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Aminos2612&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Aminos2612&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aminos2612&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=Aminos2612&icon=0&color=0)](https://visitcount.itsvg.in)
+
